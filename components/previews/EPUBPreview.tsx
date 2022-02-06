@@ -1,7 +1,6 @@
 import type { OdFileObject } from '../../types'
 
 import { FC, useEffect, useRef, useState } from 'react'
-
 import { ReactReader } from 'react-reader'
 
 import Loading from '../Loading'
